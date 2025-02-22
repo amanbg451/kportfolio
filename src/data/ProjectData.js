@@ -1,59 +1,76 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/demo1.png",
+    title: "Video 1",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+      "This is video 1",
+    demo_url: "https://www.hotstar.com/in/home",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/demo2.png",
+    title: "Video 2",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+      "This is video 2",
+    demo_url: "https:",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "/demo3.png",
+    title: "Video 3",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+      "This is video 3",
+    demo_url: "https:",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    img: "/demo4.png",
+    title: "Video 4",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+      "This is video 4",
+    demo_url: "https:",
   },
   {
-    img: "/jobDetect.png",
-    title: "JobDetect",
+    img: "/demo5.png",
+    title: "Video 5",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+      "This is video 5",
+    demo_url: "https:",
   },
-];
-
-export const videos = [
   {
-    id: 1, 
-    title: "video 1",
-    url: "/video 03.mp4"
+    img: "/demo1.png",
+    title: "Video 1",
+    description:
+      "This is video 1",
+    demo_url: "https:",
+  },
+  {
+    img: "/demo2.png",
+    title: "Video 2",
+    description:
+      "This is video 2",
+    demo_url: "https:",
+  },
+  {
+    img: "/demo3.png",
+    title: "Video 3",
+    description:
+      "This is video 3",
+    demo_url: "https:",
+  },
+  {
+    img: "/demo4.png",
+    title: "Video 4",
+    description:
+      "This is video 4",
+    demo_url: "https:",
+  },
+  {
+    img: "/demo5.png",
+    title: "Video 5",
+    description:
+      "This is video 5",
+    demo_url: "https:",
   }
-]
+];
 // --------------------------------------- Skills
 
 export const stackList = [

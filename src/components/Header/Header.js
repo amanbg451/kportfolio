@@ -12,9 +12,9 @@ const Header = ({ toggle }) => {
           />
         </Logo>
         <NavMenu>
-          {/* <NavLink className="menu-item" to="projects">
+          <NavLink className="menu-item" to="projects">
             Projects
-          </NavLink> */}
+          </NavLink>
           <NavLink className="menu-item" to="about">
             About
           </NavLink>
