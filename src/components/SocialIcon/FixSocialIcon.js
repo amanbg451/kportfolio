@@ -67,7 +67,7 @@ function FixSocialIcon() {
           </li>
           <li className="item">
             <a
-              href="https://www.google.com/"
+              href="https://wa.me/916203608511"
               target="_blank"
               rel="noopener noreferrer"
             >
